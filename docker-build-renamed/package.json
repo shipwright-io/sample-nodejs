@@ -1,0 +1,12 @@
+{
+    "name": "npm-simple-renamed",
+    "version": "0.0.1",
+    "description": "Simple NPM hello world",
+    "scripts": {
+        "print-http-server-version": "http-server -v",
+        "start": "http-server"
+    },
+    "dependencies": {
+        "http-server": "^0.12.1"
+    }
+}

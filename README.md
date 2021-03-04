@@ -15,6 +15,11 @@ This repository consists of multiple directories, each directory is intended to 
 Assets with a Dockerfile, which indicates how to compile the specified go file.
 This asset is intended to work with tools like [Kaniko](https://github.com/GoogleContainerTools/kaniko) and [Buildah](https://github.com/containers/buildah).
 
+### `/docker-build-renamed`
+
+Assets with a Dockerfile that uses `RenamedDockerfile` as the Dockerfile name.
+This asset is intended to work with tools like [Kaniko](https://github.com/GoogleContainerTools/kaniko) and [Buildah](https://github.com/containers/buildah).
+
 ### `/source-build`
 
 Assets with pure source code, without any knowledge about Docker.
