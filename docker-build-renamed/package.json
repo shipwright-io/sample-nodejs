@@ -3,10 +3,10 @@
     "version": "0.0.1",
     "description": "Simple NPM hello world",
     "scripts": {
-        "print-http-server-version": "http-server -v",
-        "start": "http-server"
+        "print-http-server-version": "serve -v",
+        "start": "serve public"
     },
     "dependencies": {
-        "http-server": "^0.12.1"
+        "serve": "^13.0.2"
     }
 }
