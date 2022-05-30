@@ -3,6 +3,6 @@
     "description": "NodeJS sample app",
     "version": "0.0.1",
     "engines": {
-        "node": ">= 0.10.12"
+        "node": "~16"
     }
 }
