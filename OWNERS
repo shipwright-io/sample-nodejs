@@ -2,9 +2,18 @@ approvers:
 - qu1queee
 - HeavyWombat
 - adambkaplan
-- sbose78
+- SaschaSchwarze0
+
 reviewers:
 - SaschaSchwarze0
-- imjasonh
 - otaviof
+- qu1queee
+- HeavyWombat
+- adambkaplan
+
+emeritus_approvers:
+- sbose78
+
+emeritus_reviewers:
 - gabemontero
+- ImJasonH
