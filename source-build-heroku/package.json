@@ -3,6 +3,6 @@
     "description": "NodeJS sample app",
     "version": "0.0.1",
     "engines": {
-        "node": "^20.7"
+        "node": "^24"
     }
 }
