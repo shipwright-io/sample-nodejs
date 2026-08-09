@@ -3,6 +3,7 @@ approvers:
 - HeavyWombat
 - adambkaplan
 - SaschaSchwarze0
+- IrvingMg
 
 reviewers:
 - SaschaSchwarze0
@@ -11,6 +12,7 @@ reviewers:
 - HeavyWombat
 - adambkaplan
 - kaizakin
+- IrvingMg
 
 emeritus_approvers:
 - sbose78
